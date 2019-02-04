@@ -1,0 +1,1 @@
+start .\TspAgent\bin\Debug\TspAgent.exe Slavic 7

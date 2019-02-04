@@ -1,0 +1,12 @@
+C:\Users\john\source\repos\tsp\TspSolver\obj\Debug\TspSolver.csprojAssemblyReference.cache
+C:\Users\john\source\repos\tsp\TspSolver\obj\Debug\TspSolver.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\tsp\TspSolver\bin\Debug\TspSolver.exe
+C:\Users\john\source\repos\tsp\TspSolver\bin\Debug\TspSolver.pdb
+C:\Users\john\source\repos\tsp\TspSolver\bin\Debug\TspService.dll
+C:\Users\john\source\repos\tsp\TspSolver\bin\Debug\TspService.pdb
+C:\Users\john\source\repos\tsp\TspSolver\obj\Debug\TspSolver.csproj.CopyComplete
+C:\Users\john\source\repos\tsp\TspSolver\obj\Debug\TspSolver.exe
+C:\Users\john\source\repos\tsp\TspSolver\obj\Debug\TspSolver.pdb
+C:\Users\john\source\repos\tsp\TspSolver\bin\Debug\TSPModel.dll
+C:\Users\john\source\repos\tsp\TspSolver\bin\Debug\TSPModel.pdb
+C:\Users\john\source\repos\tsp\TspSolver\bin\Debug\TSPModel.dll.config

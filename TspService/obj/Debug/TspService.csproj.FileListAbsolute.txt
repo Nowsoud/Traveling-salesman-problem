@@ -1,0 +1,10 @@
+C:\Users\john\source\repos\tsp\TspService\obj\Debug\TspService.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\tsp\TspService\obj\Debug\TspService.csprojAssemblyReference.cache
+C:\Users\john\source\repos\tsp\TspService\bin\Debug\TspService.dll
+C:\Users\john\source\repos\tsp\TspService\bin\Debug\TspService.pdb
+C:\Users\john\source\repos\tsp\TspService\bin\Debug\TSPModel.dll
+C:\Users\john\source\repos\tsp\TspService\bin\Debug\TSPModel.pdb
+C:\Users\john\source\repos\tsp\TspService\bin\Debug\TSPModel.dll.config
+C:\Users\john\source\repos\tsp\TspService\obj\Debug\TspService.csproj.CopyComplete
+C:\Users\john\source\repos\tsp\TspService\obj\Debug\TspService.dll
+C:\Users\john\source\repos\tsp\TspService\obj\Debug\TspService.pdb
