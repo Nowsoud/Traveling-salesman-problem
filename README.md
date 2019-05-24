@@ -1,4 +1,4 @@
-# Traveling-salesman-problem
+# Traveling salesman problem
 
 Solving the Traveling Salesman Problem Using a Genetic Algorithm in a Distributed Computing System
 
