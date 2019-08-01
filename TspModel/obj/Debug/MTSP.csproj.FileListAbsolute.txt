@@ -1,7 +1,0 @@
-C:\Users\john\Desktop\TSP-master\TSP-master\MTSP\obj\Debug\MTSP.csprojAssemblyReference.cache
-C:\Users\john\Desktop\TSP-master\TSP-master\MTSP\obj\Debug\MTSP.csproj.CoreCompileInputs.cache
-C:\Users\john\Desktop\TSP-master\TSP-master\MTSP\bin\Debug\TSPModel.dll.config
-C:\Users\john\Desktop\TSP-master\TSP-master\MTSP\bin\Debug\TSPModel.dll
-C:\Users\john\Desktop\TSP-master\TSP-master\MTSP\bin\Debug\TSPModel.pdb
-C:\Users\john\Desktop\TSP-master\TSP-master\MTSP\obj\Debug\TSPModel.dll
-C:\Users\john\Desktop\TSP-master\TSP-master\MTSP\obj\Debug\TSPModel.pdb
