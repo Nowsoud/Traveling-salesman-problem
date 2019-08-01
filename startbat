@@ -1,4 +1,0 @@
-
-start .\TspAgent\bin\Debug\TspAgent.exe agent001
-start .\TspAgent\bin\Debug\TspAgent.exe agent002
-start .\TspAgent\bin\Debug\TspAgent.exe agent003
